@@ -37,7 +37,7 @@ int main() {
         counter++;
     }
 
-    printf("===== List =====\n");
+    printf("\n===== List =====\n");
 
     int i;
     for (i = 0; i < counter; i++) {
